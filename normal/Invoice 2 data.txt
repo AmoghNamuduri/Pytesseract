@@ -1,0 +1,286 @@
+## SHRIJI  DISTRIBUTORS
+
+B 11 PREMIUM HOUSE, GHANDHIGRAM RAAILWAY STATION ROAD, NEAR MITHAKHALI FATAK, MITHAKHALI AHMEDABAD, State:  GUJARAT  Phone : 9023294588
+
+PAN No
+
+:
+
+:
+
+AAHFS7612P
+
+20B AA 4427, 20 191677
+
+DL No
+
+GST No : 24AAHFS7612P1ZQ
+
+BILL UNSTACK BY -
+
+BILL CHECK BY     -
+
+21B AA4310, 21 191678
+
+Time :-
+
+Time :-
+
+LR No.
+
+Date
+
+Transporter
+
+:
+
+:
+
+:
+
+Bill To,
+
+3678 PLANET PHARMA                 GHATLODIA, GHATLODIA
+
+41,AVISHKAR TENAMENT K K NAGAR
+
+GHATLODIA
+
+State
+
+Phone
+
+, , 9998036054
+
+:
+
+<!-- image -->
+
+: Invoice No.
+
+:
+
+:
+
+GUJARAT
+
+GHATLODIA303
+
+: 18-01-2024
+
+:
+
+07-02-24
+
+:
+
+Area
+
+Inv. Date
+
+Due Date
+
+S.man
+
+COUNTER
+
+23/SZ-072211
+
+GST No. : 24AAUFP5375K1ZI
+
+DL No. 1
+
+:
+
+20B133695 21B133696
+
+DL No. 2 :
+
+: PAN No.
+
+Remark :
+
+: Remark1
+
+Original / Duplicate / Triplicate
+
+GST Tax Invoice
+
+Credit
+
+Time : 18:45:30 2
+
+D. Man
+
+:
+
+COUNTER
+
+| Sr   | HSN         | Item Name                 | Mfg   | Pack     | Batch No   | Exp   | Qty   | Free Sch   | MRP    |        | S.Rate   | Di      | Net Rate   | Taxable   | GST    | GST Amount         | Pending Bils   | Pending Bils           | Pending Bils           |
+|------|-------------|---------------------------|-------|----------|------------|-------|-------|------------|--------|--------|----------|---------|------------|-----------|--------|--------------------|----------------|------------------------|------------------------|
+|      | Code        |                           |       |          |            |       |       | Amt        |        |        | %        |         | Amt.       | %         | Amount | Bill               | No.            | Date                   | Amount                 |
+| 1    | 30049099-12 | NAXDOM 250                | SUN   | 10 TAB   | FHA0705    | 08-26 | 3     |            | 114.00 | 81.43  | 7.00     | 75.730  | 227.19     | 12        | 27.26  | 244.29 23/SZ       | 70744          | 11-01                  | 5811.00                |
+| 2    | 30049099-12 | NAXDOM 500                | SUN   | 10 TAB   | FHA0711    | 08-26 | 3     |            | 156.00 | 111.43 | 7.00     | 103.630 | 310.89     | 12        | 37.30  | 334.29 23/SZ 23/SZ | 71061 71887    | 13-01 17-01            | 1800.00 2637.00        |
+| 3    | 30049022    | METROGYL DG FORTE GEL     | JB    | 1X20 GM  | PGX3023    | 08-25 | 10    |            | 74.76  | 53.40  | 7.00     | 49.662  | 496.62     | 12        | 59.60  | 534.00 23/SZ 23/SZ | 71924 72211    | 17-01 18-01            | 1184.00 3238.00        |
+| 4    | 30049099-12 | BRILINTA 90MG TAB 1X14TAB | AST   | 1X14TAB  | BN2319     | 05-26 | 3     |            | 538.00 | 384.29 | 7.00     | 357.385 | 1072.16    | 12        | 128.66 | 1152.86            |                |                        |                        |
+| 5    | 30049079-12 | CORBIS 2.5 TAB            | TOR   | 1X15TAB  | 2FW3K013   | 04-26 | 3     |            | 92.90  | 66.36  | 7.00     | 61.713  | 185.14     | 12        | 22.22  | 199.08             |                |                        |                        |
+| 6    | 30049099-12 | CORBIS 5 TAB              | TOR   | 1X15TAB  | 2FW4K008   | 01-26 | 3     |            | 111.80 | 79.86  | 7.00     | 74.270  | 222.81     | 12        | 26.74  | 239.58             |                |                        |                        |
+| 7    | 30049079-12 | CORBIS AM2.5 TAB          | # TOR | 1 X 10   | 2313305TT  | 07-25 | 3     |            | 109.00 | 77.86  | 7.00     | 72.410  | 217.23     | 12        | 26.06  | 233.58             |                |                        |                        |
+| 8    | 30049079-12 | CORBIS T 2.5MG TAB 1X10   | TOR   | 1X10 TAB | IVTD2302   | 09-24 | 2     |            | 120.00 | 85.71  | 7.00     | 79.710  | 159.42     | 12        | 19.14  | 171.42             |                |                        |                        |
+|      |             |                           |       |          |            |       |       |            |        |        |          |         |            |           |        |                    |                | 14670.00 ============= | 14670.00 ============= |
+
+Total Item
+
+## Adjustment Detail
+
+Sch. Disc
+
+Total Qty.
+
+3109.10
+
+Gross Amount
+
+Prep. By
+
+SGST Amt IGST Amt
+
+CGST Amt
+
+Taxable Amt
+
+8
+
+30
+
+## Remarks :
+
+LUPIN AVALABLE
+
+Message
+
+:
+
+Have a nice day
+
+Words
+
+:
+
+RUPEES Three Thousand Two Hundred Thirty Eight only
+
+SUBJECT TO AHMEDABAD JURISDICTION
+
+Software by Skyway Computers, Ph: 079-23237071
+
+0
+
+ONLINE
+
+0 %
+
+2.5 %
+
+6 %
+
+9 %
+
+14 %
+
+0.00
+
+0.00
+
+2891.46
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+173.49
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+173.49
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Cr Note
+
+Dr Note
+
+Other
+
+Total Amount
+
+<!-- image -->
+
+For   SHRIJI  DISTRIBUTORS
+
+0.00
+
+0.00
+
+0
+
+-0.44
+
+Discount
+
+Net Taxable Amt
+
+CGST Amt
+
+SGST Amt
+
+IGST Amt
+
+Invoice Amount
+
+TCS Amount
+
+Other Adjustment Amt.
+
+Net Payable Total
+
+Page 1 Of 1
+
+217.64
+
+2891.46
+
+173.49
+
+173.49
+
+0.00
+
+3238.44
+
+0.00
+
+-0.44
+
+3238.00
